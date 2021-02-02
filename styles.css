@@ -1,0 +1,46 @@
+/* CSS files add styling rules to your content */
+html {
+  background-color: #680000;
+}
+
+body {
+  font-family:  'Brush Script MT', cursive;
+  margin: 2em;
+  color: #FFD700;
+  font-size: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #002348;
+  
+}
+
+.center {
+  text-align: center;
+}
+
+ a:link {
+  color: #FF0000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #00FF00;
+  background-color: transparent;
+  text-decoration: underline;
+  
+}
